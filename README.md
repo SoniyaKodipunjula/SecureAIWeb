@@ -44,6 +44,9 @@ SecureAIWeb/
 ├── malware_hashes.txt      # Known malware hash signatures
 ├── render.yaml             # Render deployment config
 ├── requirements.txt        # Python dependencies
+├── README.md
+└── docs/                   
+    ├── SecureAI.pptx       # Detailed presentation with Data Flow Diagram
 ```
 
 ---
